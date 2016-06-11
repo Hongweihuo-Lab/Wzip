@@ -20,3 +20,13 @@ While compressing a file "book", wzip -c book or wzip -c -b 9 -e 3 -g 1 -p 2 -v 
 While decompressing a file "book.wz" wzip -d book.wz
 
 while getting help wzip -L
+
+## Contributors
+
+###Code
+•	Heng Zhao
+
+###Paper
+Wzip is an implementation of the paper.
+
+Hongwei Huo, Heng Zhao, et al., Efficient Compression in High-Order Entropy, submitted.
