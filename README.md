@@ -24,7 +24,7 @@ while getting help wzip -L
 ## Contributors
 
 ###Code
-•	Heng Zhao
+•	Heng Zhao （赵恒）
 
 ###Paper
 Wzip is an implementation of the paper.
