@@ -29,4 +29,4 @@ while getting help wzip -L
 ###Paper
 Wzip is an implementation of the paper.
 
-Hongwei Huo, Heng Zhao, et al., Efficient Compression in High-Order Entropy, submitted.
+Hongwei Huo, Heng Zhao, et al., Efficient Compression in High-Order Entropy.
