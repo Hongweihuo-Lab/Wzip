@@ -27,10 +27,8 @@ while getting help wzip -L
 •	Heng Zhao （赵恒）
 
 ### Paper
-Wzip is an implementation of the paper.
-
-[1] Hongwei Huo, Heng Zhao, et al., Efficient Compression in High-Order Entropy, being submitted.
+Hongwei Huo, Heng Zhao, et al., Efficient Compression in High-Order Entropy, being submitted.
 
 ## References
-[1] L. Foschini, R. Grossi, A. Gupta, and J. S. Vitter, Fast Compression with a Static Model in High-Order Entropy. In Proc. IEEE Data Compression Conference (DCC), Snowbird, Utah, pages 62–71, March 2004.
+L. Foschini, R. Grossi, A. Gupta, and J. S. Vitter, Fast Compression with a Static Model in High-Order Entropy. In Proc. IEEE Data Compression Conference (DCC), Snowbird, Utah, pages 62–71, March 2004.
 
