@@ -24,7 +24,7 @@ while getting help wzip -L
 ## Contributors
 
 ### Code
-•	Heng Zhao （赵恒）
+•	Heng Zhao 
 
 ### Paper
 Hongwei Huo, Heng Zhao, et al., Efficient Compression in High-Order Entropy, being submitted.
